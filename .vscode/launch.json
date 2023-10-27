@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MostrarCeroUnoHilo",
+            "request": "launch",
+            "mainClass": "Threads.MostrarCeroUnoHilo",
+            "projectName": "20_Java_e0b8bc6b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Argumentos",
+            "request": "launch",
+            "mainClass": "Argumentos",
+            "projectName": "20_Java_e0b8bc6b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Banco.Main",
+            "projectName": "20_Java_e0b8bc6b"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "Calc.Main",
+            "projectName": "20_Java_e0b8bc6b"
+        },
+        {
+            "type": "java",
+            "name": "TestFecha4",
+            "request": "launch",
+            "mainClass": "ClasesObjetos.TestFecha4",
+            "projectName": "20_Java_e0b8bc6b"
+        },
+        {
+            "type": "java",
+            "name": "Counter",
+            "request": "launch",
+            "mainClass": "Counter",
+            "projectName": "20_Java_e0b8bc6b"
+        },
+        {
+            "type": "java",
+            "name": "DemoArray2",
+            "request": "launch",
+            "mainClass": "DemoArray2",
+            "projectName": "20_Java_e0b8bc6b"
+        },
+        {
+            "type": "java",
+            "name": "DemoCaracteres",
+            "request": "launch",
+            "mainClass": "DemoCaracteres",
+            "projectName": "20_Java_e0b8bc6b"
+        },
+        {
+            "type": "java",
+            "name": "DemoMatriz",
+            "request": "launch",
+            "mainClass": "DemoMatriz",
+            "projectName": "20_Java_e0b8bc6b"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioModificadores",
+            "request": "launch",
+            "mainClass": "EjercicioModificadores",
+            "projectName": "20_Java_e0b8bc6b"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "Ejercicio_4.Main",
+            "projectName": "20_Java_e0b8bc6b"
+        },
+        {
+            "type": "java",
+            "name": "Calculadora",
+            "request": "launch",
+            "mainClass": "Excepciones.Calculadora",
+            "projectName": "20_Java_e0b8bc6b"
+        },
+        {
+            "type": "java",
+            "name": "ErrorExcepciones",
+            "request": "launch",
+            "mainClass": "Excepciones.ErrorExcepciones",
+            "projectName": "20_Java_e0b8bc6b"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "Main.Main",
+            "projectName": "20_Java_e0b8bc6b"
+        },
+        {
+            "type": "java",
+            "name": "ModConstructor",
+            "request": "launch",
+            "mainClass": "ModConstructor",
+            "projectName": "20_Java_e0b8bc6b"
+        },
+        {
+            "type": "java",
+            "name": "MyFirst",
+            "request": "launch",
+            "mainClass": "MyFirst",
+            "projectName": "20_Java_e0b8bc6b"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "20_Java_e0b8bc6b"
+        }
+    ]
+}
